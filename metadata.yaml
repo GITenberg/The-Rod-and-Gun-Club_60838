@@ -1,0 +1,37 @@
+_repo: The-Rod-and-Gun-Club_60838
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
+description: ''
+gutenberg_issued: '2019-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Rod and gun series
+subjects:
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'Firearms -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Rod and Gun Club
+url: http://www.gutenberg.org/ebooks/60838
